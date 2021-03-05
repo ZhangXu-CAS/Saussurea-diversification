@@ -1,7 +1,7 @@
 # Saussurea-diversification
 The project aims to gain insights into the drivers of radiating diversification in biodiversity hotspots using Saussurea (Asteraceae) as a case. 
 
-The R scripts include:
+The R codes include:
 
 a: RPANDA script, modified from the study of Condamine et al. (2018), fiting a series of time- and temperature-dependent likelihood diversification birth-death (BD) models;
 
