@@ -27,3 +27,15 @@ k: TESS_analysis, detecting the abrupt changes in speciation and extinction rate
 
 l: traitDependent_functions
 
+###
+References
+
+Caetano DS, O'Meara BC, Beaulieu JM. 2018. Hidden state models improve state-dependent diversification approaches, including biogeographical models. Evolution 72(11): 2308-2324.
+
+Condamine FL, Rolland J, Höhna S, Sperling FAH, Sanmartín I. 2018. Testing the Role of the Red Queen and Court Jester as Drivers of the Macroevolution of Apollo Butterflies. Systematic Biology 67(6): 940-964.
+
+Harvey MG, Rabosky DL. 2018. Continuous traits and speciation rates: Alternatives to state-dependent diversification models. Methods in Ecology and Evolution 9(4): 984-993.
+
+Jetz W, Thomas GH, Joy JB, Hartmann K, Mooers AO. 2012. The global diversity of birds in space and time. Nature 491(7424): 444-448.
+
+Howard CC, Landis JB, Beaulieu JM, Cellinese N. 2020. Geophytism in monocots leads to higher rates of diversification. New Phytologist 225(2): 1023-1032.
