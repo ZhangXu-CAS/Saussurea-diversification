@@ -30,7 +30,7 @@ k: TESS_analysis, detecting the abrupt changes in speciation and extinction rate
 
 l: traitDependent_functions
 
-#References
+## References
 
 Caetano DS, O'Meara BC, Beaulieu JM. 2018. Hidden state models improve state-dependent diversification approaches, including biogeographical models. Evolution 72(11): 2308-2324.
 
