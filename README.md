@@ -1,5 +1,8 @@
 # Saussurea diversification
 The project aims to gain insights into the drivers of radiating diversification in biodiversity hotspots using Saussurea (Asteraceae) as a case. 
+## The manuscript is preprinted in bioRxiv:
+
+Zhang X, Landis JB, Sun Y, Zhang H, Feng T, Lin N, Tiamiyu BB, Huang X, Deng T, Wang H, Sun H. 2021. Insights into the drivers of radiating diversification in biodiversity hotspots using Saussurea (Asteraceae) as a case. bioRxiv: 2021.2003.2015.435394. https://www.biorxiv.org/content/10.1101/2021.03.15.435394v1 
 
 The R codes include:
 
