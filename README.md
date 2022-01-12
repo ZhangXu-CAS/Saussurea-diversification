@@ -1,9 +1,9 @@
-## Saussurea diversification
+# Saussurea diversification
 The project aims to gain insights into the drivers of radiating diversification in biodiversity hotspots using Saussurea (Asteraceae) as a case. 
 
-# The paper is published in Proc Biol Sci:
+## The paper is published in Proc Biol Sci:
 
-# Zhang X et al. 2021 Macroevolutionary pattern of Saussurea (Asteraceae) provides insights into the drivers of radiating diversification. Proc. R. Soc. B 288: 20211575. https://doi.org/10.1098/rspb.2021.1575
+### Zhang X et al. 2021 Macroevolutionary pattern of Saussurea (Asteraceae) provides insights into the drivers of radiating diversification. Proc. R. Soc. B 288: 20211575. https://doi.org/10.1098/rspb.2021.1575
 
 The R codes include:
 
